@@ -7,6 +7,14 @@ Plot every column of a data frame agains every other ggplot ods wps;
         1. ods wps graphics
         2. r ggplot
            https://stackoverflow.com/users/6851825/jon-spring
+           
+    WPS output
+    https://tinyurl.com/3m495yrc
+    https://github.com/rogerjdeangelis/utl-plot-every-column-against-every-other-column-ggplot-ods-wps/blob/main/allCmb.pdf
+
+    R output
+    https://tinyurl.com/3d6259km
+    https://github.com/rogerjdeangelis/utl-plot-every-column-against-every-other-column-ggplot-ods-wps/blob/main/allCmb_r.pdf
 
     github
     https://tinyurl.com/2xwfja6z
